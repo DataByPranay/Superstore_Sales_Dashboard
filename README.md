@@ -29,6 +29,9 @@ The dashboard analyzes sales performance, profitability, customer segments, and 
 - **CSV / Excel** – Sales dataset  
 - **GitHub** – Project documentation and version control  
 
+## 📸 Dashboard Preview
+![Sales & Profit Dashboard](Dashboard_Screenshot.png)
+
 ## 🚀 How to View the Dashboard
 - **Tableau Public:**  
   https://public.tableau.com/app/profile/pranay.birangade/viz/SalesDashboard_17702909896900/Dashboard1?publish=yes
